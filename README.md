@@ -5,6 +5,7 @@ This is test Repository
 adding new line from local repo
 adding second line from remote repo(github)/server
 line7 added from remote repo for git pull
+line8 added from remote repo got git fetch and merge
 
 
 
